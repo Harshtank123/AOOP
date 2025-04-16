@@ -11,7 +11,7 @@ class MyException extends Exception {
     }
 }
 
-public class p23 { 
+public class main { 
     public static void main(String[] args) {
         try {
             throw new MyException("Division by zero"); 
